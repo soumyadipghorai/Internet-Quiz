@@ -1,0 +1,51 @@
+[
+    {
+        "question": "WWW stands for?",
+        "answer": "World Wide Web"
+    },
+
+    {
+        "question": "Which software is used to view web pages?",
+        "answer": "web browser"
+    },
+
+    {
+        "question": "ISP stands for?",
+        "answer": "internet service provider"
+    },
+
+    {
+        "question": "CSS stands for?",
+        "answer": "cascading style sheet"
+    },
+
+    {
+        "question": "HTML stands for?",
+        "answer": "hyper text markup language"
+    },
+
+    {
+        "question": "The company behind Windows operating system?",
+        "answer": "microsoft"
+    },
+
+    {
+        "question": "Who created Javascript?",
+        "answer": "brendan eich"
+    },
+
+    {
+        "question": "The company behind Chrome web browser?",
+        "answer": "google"
+    },
+
+    {
+        "question": "Name a popular version control system",
+        "answer": "git"
+    },
+
+    {
+        "question": "Which tag is used to link an image in a HTML page?",
+        "answer": "img"
+    }
+]
