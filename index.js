@@ -16,7 +16,7 @@ fetch("quiz.json")
 
 function showAnswer(){
     var val = document.getElementById("insert").value;
-    if (val == ans) {
+    if (val.toUpperCase() == ans.toUpperCase()) { // turns both the ans into same case 
         // alert("Right Answer");
         if (alert("Right Answer")){}
         else{
